@@ -1,5 +1,5 @@
 # Flow
-## A safer way to collect flows from Android UIs
+## A safer way to collect flows from Android UIs[https://medium.com/androiddevelopers/a-safer-way-to-collect-flows-from-android-uis-23080b1f8bda]
 ### https://medium.com/androiddevelopers/a-safer-way-to-collect-flows-from-android-uis-23080b1f8bda
 
 ## Jetpack Compose 에서 Flow 효율적으로 수집하기
