@@ -1,1 +1,1 @@
-## [How to add opt-in compiler argument in build.gradle?]([https://medium.com/androiddevelopers/a-safer-way-to-collect-flows-from-android-uis-23080b1f8bda](https://dev.to/vtsen/how-to-add-opt-in-compiler-argument-in-buildgradle-jb3))
+## [How to add opt-in compiler argument in build.gradle?](https://dev.to/vtsen/how-to-add-opt-in-compiler-argument-in-buildgradle-jb3)
